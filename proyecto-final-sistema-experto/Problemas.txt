@@ -1,0 +1,8 @@
+el computador no enciende,ningun led encendido,el computador se apaga mientras esta en uso,1
+el computador enciende,aparecen rayas verticales en el monitor,no se visualiza nada en pantalla,2
+el computador no enciende,comportamiento inestable,reinicio espontaneo del sistema operativo,3
+el computador enciende,muestra la BIOS,las rutinas no se completan adecuadamente,4
+computador lento,errores al intalar programas o aplicaciones,error con el acceso a archivos,6
+no inicia,pantalla no muestra nada,pantallazo azul,5
+se calienta,se apaga,no carga,5
+se calienta,se apaga solo,no inicia,4

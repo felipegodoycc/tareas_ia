@@ -1,0 +1,6 @@
+1,hardware, error en la fuente
+2,hardware, fallos en la targeta grafica (gpu)
+3,hardware, fallos en la memoria ram
+4,hardware, fallos en la cpu
+5,hardware, fallos en placa madre
+6,hardware, fallos con el disco duro
